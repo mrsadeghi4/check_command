@@ -1,4 +1,4 @@
-#### Objective:
+# Objective:
 The objective of this script is to check whether a given command has executed successfully or not. The script provides
 the functionality to set the interval time and number of attempts to check for successful execution.
 
